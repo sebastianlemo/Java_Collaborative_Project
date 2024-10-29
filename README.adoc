@@ -1,0 +1,32 @@
+:app: BIVI
+:handle: biblioteca-virtual
+:desc: Biblioteca Virtual con Java Spring Boot creada por FLAM
+:repo: ProyectoCinco/{handle}
+:!showtitle:
+:icons: font
+:!toc-title:
+
+= {app}
+
+ifdef::env-github[]
+[subs=attributes+]
+++++
+<div align="center">
+   <h1>{app}</h1>
+   <h3>{desc}</h3>
+   <br />
+</div>
+++++
+endif::[]
+
+ifndef::env-github[]
+
+[.text-center]
+[.lead]
+*{app}*
+
+[.text-center]
+{desc}
+
+[.text-center]
+endif::[]
