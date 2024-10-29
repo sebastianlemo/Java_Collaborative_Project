@@ -1,6 +1,6 @@
 :app: BIVI
 :handle: biblioteca-virtual
-:desc: Biblioteca Virtual con Java Spring Boot creada por FLAM
+:desc: Biblioteca Virtual con Java Spring Boot 
 :repo: ProyectoCinco/{handle}
 :!showtitle:
 :icons: font
